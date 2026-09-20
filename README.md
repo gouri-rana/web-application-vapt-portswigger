@@ -165,3 +165,11 @@ The assessment highlighted several recurring security controls:
 - Race Condition Testing
 - Security Risk Analysis
 - Vulnerability Documentation
+
+---
+
+## Disclaimer
+
+This project was conducted exclusively within authorized vulnerable laboratories provided by PortSwigger Web Security Academy for educational and cybersecurity training purposes.
+
+No unauthorized systems, real-world applications, or third-party infrastructure were targeted. Testing was limited to the assigned laboratory environments and did not include destructive attacks or denial-of-service activity.
